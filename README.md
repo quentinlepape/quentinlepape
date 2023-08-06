@@ -3,7 +3,7 @@
 **Hello there, I’m [Quentin Le Pape](https://www.quentinlepape.com).**
 
 1. Product Design Leader
-2. Full-Stack Developer
+2. Front-End Developer
 3. Serial Founder
 
 **Previously at [Palantir Technologies](https://www.palantir.com/) as a product design lead** – where I've participated in laying down the foundations of several of our flagship products, including [Foundry Ontology](https://www.palantir.com/platforms/foundry/) and [Foundry Operational AI](https://www.palantir.com/platforms/foundry/foundry-ai-os/).
