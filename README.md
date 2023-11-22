@@ -8,7 +8,7 @@
 
 **Previously at [Palantir Technologies](https://www.palantir.com/) as a product design lead** – where I've participated in laying down the foundations of several of our flagship products, including [Foundry Ontology](https://www.palantir.com/platforms/foundry/) and [Foundry Operational AI](https://www.palantir.com/platforms/foundry/foundry-ai-os/).
 
-Currently building the future of web design at **webcraft**.
+Currently building the future of command and control at **Comand AI**.
 
 # I've built products for
 
@@ -37,7 +37,8 @@ _... and other government, research, and commercial organizations._
 
 | Company | Role | Dates |
 | :--- | :--- | :--- |
-| **Webcraft** (founder) | Front-End Developer / Product Designer | 2023 – Now |
+| [**Comand AI**](https://www.comand.ai/) | Product Design Founder | 2023 – Now |
+| **Webcraft** (founder) | Front-End Developer / Product Designer | 2022 – 2023 |
 | [**Palantir Technologies**](https://www.palantir.com/) | Product Design Lead | 2017 – 2022 |
 | **Bitcallz** (founder) | Full-Stack Developer / Product Designer | 2017 – 2018 |
 | **Thedirectory.io** (founder) | Full-Stack Developer / Product Designer | 2015 – 2016 |
